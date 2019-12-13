@@ -7,7 +7,7 @@ Test Version 1.0 of the firmware completed, featuring a large number of function
 
 See the following videos:
 
-[Drawing Fractals 1 - The Mandelbrot set Part 1](https://www.youtube.com/watch?v=Ev7-7Hwkang)
+[![](http://img.youtube.com/vi/Ev7-7Hwkang/0.jpg)](http://www.youtube.com/watch?v=Ev7-7Hwkang "Drawing Fractals 1 - The Mandelbrot set Part 1")
 
 [Drawing Fractals 2 - The Mandelbrot set Part 2](https://www.youtube.com/watch?v=rj_wxCEUXyc) 
 
