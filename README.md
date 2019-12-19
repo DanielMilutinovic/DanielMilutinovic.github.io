@@ -1,3 +1,11 @@
+## 2019/12/19
+
+I have started porting the firmware to NXP's new ![i.MX RT1010](https://www.nxp.com/products/processors-and-microcontrollers/arm-microcontrollers/i.mx-rt-series/i.mx-rt1010-crossover-mcu-with-arm-cortex-m7-core:i.MX-RT1010) crossover processor, which features an ARM Cortex-M7 core running at 500MHz, and will replace the display with a higher resolution 320 x 480 colour display. 
+
+If interested in following along and/or contributing to this project, please email me at and I will add you to the mailing list:
+
+daniel_milutinovic@yahoo.com.au
+
 ## 2019/12/04
 
 Test Version 1.0 of the firmware completed, featuring a large number of functions. 
