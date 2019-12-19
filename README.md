@@ -1,7 +1,7 @@
 ## 2019/12/19
 
 I have started porting the firmware to NXP's new 
-![i.MX RT1010](https://www.nxp.com/design/development-boards/i.mx-evaluation-and-development-boards/i.mx-rt1010-evaluation-kit:MIMXRT1010-EVK) 
+(https://www.nxp.com/design/development-boards/i.mx-evaluation-and-development-boards/i.mx-rt1010-evaluation-kit:MIMXRT1010-EVK) 
 crossover processor, which features an ARM Cortex-M7 core running at 500MHz and 16MB Flash, as well as a 64-bit Floating Point Unit. 
 
 The display will be replaced with a higher resolution 320 x 480 colour display. 
