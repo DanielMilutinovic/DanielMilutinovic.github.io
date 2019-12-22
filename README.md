@@ -5,9 +5,9 @@ crossover processor, which features an ARM Cortex-M7 core running at 500MHz and 
 
 The display will be replaced with a higher resolution 320 x 480 colour display. 
 
-If you are interested in following along and/or contributing to this project, please send me an email and I will add you to the mailing list:
+Visit the forum below and sign up!
 
-daniel_milutinovic@yahoo.com.au
+https://groups.io/g/mycalculator
 
 ## 2019/12/04
 
