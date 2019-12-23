@@ -7,7 +7,7 @@ The display will be replaced with a higher resolution 320 x 480 colour display.
 
 To join the discussion forum, please click on the link below:  
 
-[mycalculator forum](https://groups.io/g/mycalculator)
+[Calculator Project Forum](https://groups.io/g/mycalculator)
 
 ## 2019/12/04
 
