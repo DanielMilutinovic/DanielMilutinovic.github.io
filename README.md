@@ -9,9 +9,6 @@ To join the discussion forum, please click on the link below:
 
 [Calculator Project Forum](https://groups.io/g/mycalculator)
 
-Email:
-daniel_milutinovic(at)yahoo.com.au
-
 ## 2019/12/04
 
 Test Version 1.0 of the firmware completed , featuring a large number of mathematical functions.
