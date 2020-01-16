@@ -11,7 +11,8 @@ To join the discussion forum, please click on the link below:
 
 ## 2019/12/04
 
-Test Version 1.0 of the firmware completed, featuring a large number of functions. 
+Test Version 1.0 of the firmware completed , featuring a large number of mathematical functions.
+The calculator runs on a Texas Instruments Cortex-M4F microcontroller running at 120MHz with 1MB Flash memory.
 
 ![Prototype](https://live.staticflickr.com/65535/49206023653_9760183c1b.jpg) 
 ![Mandelbrot set1](https://live.staticflickr.com/65535/49136352892_b0159df85d_w.jpg) ![Mandelbrot set2](https://live.staticflickr.com/65535/49206026533_c374309a02_w.jpg)
