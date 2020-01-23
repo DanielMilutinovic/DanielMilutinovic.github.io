@@ -1,9 +1,11 @@
-## 2019/12/19
+## 2020/01/23
 
 I have started porting the firmware to NXP's new [i.MX RT1010](https://www.nxp.com/design/development-boards/i.mx-evaluation-and-development-boards/i.mx-rt1010-evaluation-kit:MIMXRT1010-EVK) 
-crossover processor, which features an ARM Cortex-M7 core running at 500MHz and 16MB Flash memory, as well as a 32-bit Floating Point Unit. 
+crossover processor, which features an ARM Cortex-M7 core running at 500MHz and a 32-bit Floating Point Unit. The [i.MX RT1010 EVK development board](https://www.nxp.com/design/development-boards/i.mx-evaluation-and-development-boards/i.mx-rt1010-evaluation-kit:MIMXRT1010-EVK) features 16MB Flash memory, and I am now using a higher resolution 480 x 320 colour display.
 
-The display has been replaced with a higher resolution 480 x 320 colour display.
+![Prototype2](https://live.staticflickr.com/65535/49431303093_428e510e54.jpg)
+
+![Mandelbrot set2](https://live.staticflickr.com/65535/49432021277_91d07683b5.jpg)
 
 To join the discussion forum, please click on the link below:  
 
