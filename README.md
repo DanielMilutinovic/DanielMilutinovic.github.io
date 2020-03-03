@@ -6,7 +6,7 @@ I have completed the port to the [i.MX RT1010](https://www.nxp.com/design/develo
 
 See the following video:
 
-[![](http://img.youtube.com/vi/Se-TxUxe2cg/0.jpg)](http://www.youtube.com/watch?v=Se-TxUxe2cg "monic demo")
+[![](http://img.youtube.com/vi/Se-TxUxe2cg/0.jpg)](http://www.youtube.com/watch?v=Se-TxUxe2cg "monic - an open source calculator and STEM educational device")
 
 ## 2020/01/23
 
