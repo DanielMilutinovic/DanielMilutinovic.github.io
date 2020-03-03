@@ -4,6 +4,10 @@ I have completed the port to the [i.MX RT1010](https://www.nxp.com/design/develo
 
 ![Prototype3](https://live.staticflickr.com/65535/49611189948_27f2212ae0.jpg)
 
+See the following video:
+
+[![](http://img.youtube.com/vi/Se-TxUxe2cg/0.jpg)](https://youtu.be/Se-TxUxe2cg "monic an open source calculator and STEM educational device)
+
 ## 2020/01/23
 
 I have started porting the firmware to NXP's new [i.MX RT1010](https://www.nxp.com/design/development-boards/i.mx-evaluation-and-development-boards/i.mx-rt1010-evaluation-kit:MIMXRT1010-EVK) 
